@@ -1,2 +1,4 @@
-# ACTIVIDAD-1.
-La actividad 1 jejox
+# HELLO
+Alumno: Ramiro Castillo
+Curso: 4º2 Avionica-
+Materia: Control de Interfaces
